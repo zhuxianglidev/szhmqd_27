@@ -1,0 +1,23 @@
+{
+  "name": "szhmqd_27",
+  "version": "1.0.0",
+  "description": "深圳黑马前端27期node项目",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuxianglidev/szhmqd_27.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhuxianglidev/szhmqd_27/issues"
+  },
+  "homepage": "https://github.com/zhuxianglidev/szhmqd_27#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
